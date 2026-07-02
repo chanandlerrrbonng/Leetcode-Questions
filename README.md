@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0213-house-robber-ii) |
 | [0740-delete-and-earn](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0740-delete-and-earn) |
@@ -93,9 +94,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0062-unique-paths) |
 | [1137-n-th-tribonacci-number](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/1137-n-th-tribonacci-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
