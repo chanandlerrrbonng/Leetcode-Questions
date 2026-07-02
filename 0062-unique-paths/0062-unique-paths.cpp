@@ -1,9 +1,14 @@
 class Solution {
 public:
     int uniquePaths(int m, int n) {
-        long ans = 1;
-        for(int i = m+n-2, j = 1; i >= max(m, n); i--, j++) 
-            ans = (ans * i) / j;
-        return ans;
+        vector<int>prevrow(n, 1);
+        for(int i=1; i<m; i++){
+            int prevcol=1;
+            for(int j=1; j<n; j++){
+                prevcol=prevcol+prevrow[j];
+                prevrow[j]=prevcol;
+            }
+        }
+        return prevrow[n-1];
     }
 };
