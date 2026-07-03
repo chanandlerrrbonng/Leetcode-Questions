@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0213-house-robber-ii) |
+| [0455-assign-cookies](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0455-assign-cookies) |
 | [0740-delete-and-earn](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0931-minimum-falling-path-sum) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Breadth-First Search
 |  |
@@ -84,11 +86,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0455-assign-cookies) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2498-frog-jump-ii](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/2498-frog-jump-ii) |
 ## Sorting
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0455-assign-cookies) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Dynamic Programming
 |  |
