@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/1143-longest-common-subsequence) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/1289-minimum-falling-path-sum-ii) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Math
 |  |
 | ------- |
@@ -148,4 +149,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0516-longest-palindromic-subsequence](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 <!---LeetCode Topics End-->
