@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0300-longest-increasing-subsequence](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2498-frog-jump-ii](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/2498-frog-jump-ii) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0455-assign-cookies) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0494-target-sum) |
