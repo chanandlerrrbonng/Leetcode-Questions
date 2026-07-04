@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0931-minimum-falling-path-sum) |
+| [1092-shortest-common-supersequence](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/1092-shortest-common-supersequence) |
 | [1137-n-th-tribonacci-number](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/1143-longest-common-subsequence) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/1289-minimum-falling-path-sum-ii) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0516-longest-palindromic-subsequence](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0583-delete-operation-for-two-strings) |
+| [1092-shortest-common-supersequence](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 <!---LeetCode Topics End-->
