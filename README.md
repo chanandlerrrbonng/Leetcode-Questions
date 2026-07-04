@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0455-assign-cookies) |
+| [0494-target-sum](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0518-coin-change-ii) |
 | [0740-delete-and-earn](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0746-min-cost-climbing-stairs) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0518-coin-change-ii) |
 | [0740-delete-and-earn](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0746-min-cost-climbing-stairs) |
@@ -135,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0064-minimum-path-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0931-minimum-falling-path-sum) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/1289-minimum-falling-path-sum-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
