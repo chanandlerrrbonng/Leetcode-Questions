@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0931-minimum-falling-path-sum) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2498-frog-jump-ii](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/2498-frog-jump-ii) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/1092-shortest-common-supersequence) |
 | [1137-n-th-tribonacci-number](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/1143-longest-common-subsequence) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Math
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0064-minimum-path-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0931-minimum-falling-path-sum) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/1289-minimum-falling-path-sum-ii) |
 ## Backtracking
 |  |
