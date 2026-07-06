@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0099-recover-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0547-number-of-provinces](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Search Tree
 |  |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0322-coin-change) |
+| [0547-number-of-provinces](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Greedy
 |  |
@@ -177,4 +179,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
