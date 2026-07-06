@@ -138,11 +138,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1277-count-square-submatrices-with-all-ones](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 ## Math
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0062-unique-paths) |
 | [1137-n-th-tribonacci-number](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/1137-n-th-tribonacci-number) |
+| [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 ## Memoization
 |  |
 | ------- |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0062-unique-paths) |
+| [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 ## Matrix
 |  |
 | ------- |
