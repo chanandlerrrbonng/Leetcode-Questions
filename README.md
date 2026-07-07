@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0547-number-of-provinces](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Greedy
 |  |
 | ------- |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0740-delete-and-earn](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0746-min-cost-climbing-stairs) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0931-minimum-falling-path-sum](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0931-minimum-falling-path-sum) |
 | [1035-uncrossed-lines](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/1035-uncrossed-lines) |
 | [1092-shortest-common-supersequence](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/1092-shortest-common-supersequence) |
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0210-course-schedule-ii](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0547-number-of-provinces) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Simulation
 |  |
 | ------- |
@@ -199,4 +203,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0210-course-schedule-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
