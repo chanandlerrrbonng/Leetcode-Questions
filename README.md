@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0127-word-ladder) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0740-delete-and-earn](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0740-delete-and-earn) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 ## Two Pointers
 |  |
 | ------- |
@@ -192,12 +194,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0547-number-of-provinces) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 ## Graph Theory
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0547-number-of-provinces) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 ## Simulation
 |  |
 | ------- |
