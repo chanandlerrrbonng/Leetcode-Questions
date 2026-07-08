@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0127-word-ladder) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0740-delete-and-earn](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0740-delete-and-earn) |
 ## Two Pointers
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0127-word-ladder) |
 | [0210-course-schedule-ii](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0547-number-of-provinces) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0115-distinct-subsequences) |
+| [0127-word-ladder](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0127-word-ladder) |
 | [0516-longest-palindromic-subsequence](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0583-delete-operation-for-two-strings) |
 | [0657-robot-return-to-origin](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0657-robot-return-to-origin) |
