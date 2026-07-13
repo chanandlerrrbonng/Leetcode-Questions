@@ -220,4 +220,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
