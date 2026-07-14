@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1277-count-square-submatrices-with-all-ones](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2274-maximum-consecutive-floors-without-special-floors](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
 | [2498-frog-jump-ii](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/2498-frog-jump-ii) |
 ## Stack
 |  |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0455-assign-cookies) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2274-maximum-consecutive-floors-without-special-floors](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
 ## Dynamic Programming
 |  |
 | ------- |
