@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0062-unique-paths) |
 | [1137-n-th-tribonacci-number](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/1137-n-th-tribonacci-number) |
+| [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 ## Memoization
 |  |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0657-robot-return-to-origin) |
+| [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 ## Topological Sort
 |  |
 | ------- |
