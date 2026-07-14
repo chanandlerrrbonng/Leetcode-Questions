@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0118-pascals-triangle) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/0455-assign-cookies) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/chanandlerrrbonng/Leetcode-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Dynamic Programming
